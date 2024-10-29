@@ -1,1 +1,3 @@
-# django_tutorial
+# Django Tutorial
+
+# Practicing with Django Web Applications
